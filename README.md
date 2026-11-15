@@ -2,9 +2,11 @@
 
 # old-dutykh.github.io: the archive of the blog of Denys Dutykh, 2014 to 2017
 
-This repository is the archive of the Jekyll blog that Denys Dutykh, applied mathematician, kept from May 2014 to May 2017: 55 posts of research notes, announcements of preprints, and tools for hydrodynamics, wave propagation and scientific computing. The blog is no longer published from here, and its posts are moving to the blog of his website,
+This repository is the archive of the Jekyll blog that Denys Dutykh, applied mathematician, kept from May 2014 to May 2017: 55 posts of research notes, announcements of preprints, and tools for hydrodynamics, wave propagation and scientific computing. The blog is no longer published from here: its posts have moved, with their original dates, to the blog of his website,
 
-https://www.denys-dutykh.com/
+https://www.denys-dutykh.com/blog
+
+and every old address of the form `/YYYY/MM/DD/slug/` under `dutykh.github.io` leads to the same post there.
 
 ## Contents
 
